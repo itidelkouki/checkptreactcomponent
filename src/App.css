@@ -27,6 +27,25 @@ h2{
   font-size: xx-large;
   color: palevioletred;
   text-align: center;
-  background-color: peachpuff;
-  }
   
+  }
+  .page-footerfont-smallpt-4mt-4{
+text-align: center;
+  }
+  .btnbtn-dangerbtn-rounded{
+border: solid 1px black;
+background-color: yellow;
+border-radius: 20%;
+color: purple;
+
+  }
+
+  .map-image{
+width: 150px;
+height: 100px;
+  }
+
+  .my-address{
+background-color: peachpuff;
+color: purple;
+  }
